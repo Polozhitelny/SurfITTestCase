@@ -13,7 +13,7 @@ Ads Service API - это сервис по размещению объявлен
 1. Клонируйте репозиторий:
 
 ```shell
-git clone https://github.com/your_username/ad-service-api.git
+git clone https://github.com/Polozhitelny/SurfITTestCase.git
 ```
 
 2. Установите зависимости:
